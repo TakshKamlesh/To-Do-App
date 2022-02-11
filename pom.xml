@@ -8,7 +8,7 @@
 	<groupId>com.tutorial.todoList</groupId>
 	<artifactId>To-DoApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>To-DoApp Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
